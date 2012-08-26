@@ -1,0 +1,10 @@
+name: PlanetMinecraft
+main: com.github.aikoels.PlanetMinecraft.PlanetMinecraft
+version: 1.0
+
+commands:
+   planetminecraft:
+      description: Use this if you are from PlanetMinecraft.
+      usage: Please, keep it to only /planetminecraft.
+      permission: PlanetMinecraft.Use
+      permission-message: Awwww you can't be from Planet Minecraft because you don't have permission to do /planetminecraft :(
